@@ -12,4 +12,5 @@
   border: 1px solid #ccc;
   padding: 20px;
   text-align: center;
+  box-sizing: border-box;
 }
