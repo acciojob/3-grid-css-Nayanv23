@@ -3,6 +3,8 @@
   grid-template-columns: 1fr 1fr 1fr;
   gap: 0px;
   padding: 0px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .grid-item {
